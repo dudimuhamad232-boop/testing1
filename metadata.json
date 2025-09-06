@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Multi-Page App",
+  "description": "A modern, multi-page React application with a static URL, featuring a dynamic AI story generator powered by the Gemini API.",
+  "requestFramePermissions": []
+}
